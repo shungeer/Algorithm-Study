@@ -1,0 +1,22 @@
+# User-specific files
+*.suo
+
+# Visual C++ cache files
+src/ipch/
+src/Salgorithm/Debug/
+src/Salgorithm/Release/
+src/Salgorithm/ipch/
+src/DivideAndConquer/Debug/
+src/DivideAndConquer/Release/
+src/DivideAndConquer/ipch/
+*.sdf
+*.opensdf
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# 3rd and include
+
+
+# project
