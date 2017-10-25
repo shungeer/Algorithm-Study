@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DivideAndConquer", "DivideAndConquer\DivideAndConquer.vcxproj", "{10488366-D397-4D93-A47F-38E32CE88D0C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Greedy", "Greedy\Greedy.vcxproj", "{2E591CFC-50D4-435F-B7BC-58EEC656517B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{10488366-D397-4D93-A47F-38E32CE88D0C}.Debug|Win32.Build.0 = Debug|Win32
 		{10488366-D397-4D93-A47F-38E32CE88D0C}.Release|Win32.ActiveCfg = Release|Win32
 		{10488366-D397-4D93-A47F-38E32CE88D0C}.Release|Win32.Build.0 = Release|Win32
+		{2E591CFC-50D4-435F-B7BC-58EEC656517B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2E591CFC-50D4-435F-B7BC-58EEC656517B}.Debug|Win32.Build.0 = Debug|Win32
+		{2E591CFC-50D4-435F-B7BC-58EEC656517B}.Release|Win32.ActiveCfg = Release|Win32
+		{2E591CFC-50D4-435F-B7BC-58EEC656517B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
